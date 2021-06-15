@@ -45,7 +45,7 @@ class Config:
 class API:
     # API 配置
     SCHEME = 'https'
-    SITE = 'dns.myhuaweicloud.com'  # API endpoint
+    SITE = 'dns.ap-southeast-1.myhuaweicloud.com'  # API endpoint
 
 
 def HexEncodeSHA256Hash(data):
